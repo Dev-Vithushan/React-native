@@ -1,4 +1,4 @@
-// import { StatusBar } from 'expo-status-bar';
+import { StatusBar } from 'expo-status-bar';
 import React, {useState} from 'react';
 import { KeyboardAvoidingView, StyleSheet, Text, View, TextInput, TouchableOpacity } from 'react-native';
 import Task from './components/Task';
