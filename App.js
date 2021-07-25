@@ -108,7 +108,7 @@ const styles = StyleSheet.create({
 
     },
     addText:{
-
+        // Added some points in the text
     },
 
 
